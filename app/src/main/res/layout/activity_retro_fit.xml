@@ -16,4 +16,11 @@
         android:layout_marginTop="@dimen/_10sdp"
         android:text="RetroFit" />
 
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="@dimen/_10sdp" />
+
 </LinearLayout>
